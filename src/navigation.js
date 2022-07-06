@@ -50,7 +50,7 @@ function homePage() {
   movieDetailSection.classList.add('inactive');
   
   getTrendingMoviesPreview();
-  getCategegoriesPreview();
+  getCategoriesPreview();
 }
 
 function categoriesPage() {
@@ -140,5 +140,3 @@ function trendsPage() {
 
   getTrendingMovies();
 }
-
-
