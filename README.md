@@ -1,2 +1,1 @@
-# curso-api-rest-javascript-practico
-Curso Práctico de Consumo de API REST con JavaScript
+Este proyecto es un consumo de API REST de movieDB desarrollado sobre una SPA
